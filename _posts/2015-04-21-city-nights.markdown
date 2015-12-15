@@ -1,6 +1,6 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
+title:  "一个人的思考."
+subtitle: "最广阔的人的思维~."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
