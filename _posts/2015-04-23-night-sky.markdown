@@ -1,6 +1,6 @@
 ---
-title:  "Absense of light"
-subtitle: "Only lights from space"
+title:  "读书"
+subtitle: "一杯茶,一本书,一段故事."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
