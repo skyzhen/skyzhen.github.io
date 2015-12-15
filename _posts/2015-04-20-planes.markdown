@@ -1,6 +1,6 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
+title:  "&关于我&"
+subtitle: "越单纯,越勇敢~!"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
