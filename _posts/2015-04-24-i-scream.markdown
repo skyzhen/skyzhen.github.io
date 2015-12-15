@@ -1,6 +1,6 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
+title:  "生活"
+subtitle: "因为充满希望,所以活的阳光*"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
