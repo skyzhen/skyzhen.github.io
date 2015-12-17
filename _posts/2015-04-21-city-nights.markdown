@@ -7,8 +7,10 @@ image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 一条道走到黑
+  曾经想过自己以后会怎样走下去,感觉技术到底未尝不是一条幸福的路.不知不觉从开始踏上程序员这条路已经五年了,四年的大学就是计算机专业,毕业后虽然进入iOS开发,其实并没有偏离多少,还是在程序员的路上前进.
+    这条路,累吗?其实并没有想象中的那么累,而且偶尔感觉还很不错,幸福感满满的.一切都是新的东西,每天都是不重复的刚做,工作就是工作,琐事就是琐事.唯一感觉不太好的就是对身体不好,尽管锻炼了你的大脑,但是长久坐在电脑边,不知不觉你的身体就垮掉了.合理安排自己的时间为以后多活一段时间~
+     如果作为一个程序猿,他不是一个逗比的性格,不喜欢这个行业,比如为了一个高新转行做的开发人员,那么他得生活一定很累,不管是工作还是生活.如果没有一颗积极向上的心脏,和学无止境的渴望,生活下去,只有只有颓废的疲劳,还有那被弄垮的身体@
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
