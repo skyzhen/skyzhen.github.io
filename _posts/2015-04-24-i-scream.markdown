@@ -22,6 +22,13 @@ date:   2015-01-12 17:12:12
    
    老炮儿只能说是北方人心中钟爱的一段故事.故事简单,但是细节处动人.看着当今社会,在感受老炮儿的时候,总有一股不可名状的悲伤~
 
+
+---
+author: "sk"
+avatar: "img/authors/wferr.png"
+image: "img/e.jpg"
+date:   2015-01-12 17:12:12
+---
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
 
