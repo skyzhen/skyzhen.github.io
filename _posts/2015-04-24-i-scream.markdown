@@ -1,14 +1,26 @@
 ---
 title:  "生活"
 subtitle: "因为充满希望,所以活的阳光*"
-author: "Wferr"
+author: "sk"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+date:   2015-01-12 17:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 电影
+   今年看的电影也没几部,一部: 007-幽灵党,一部:寻龙诀,一部:唐人街-探案,再加上星期天看的:老炮儿.其实不太懂电影,只是写完代码后的休息时间,偶尔去抽些时间放松一下.
+   
+   
+   007不太好看,没有步步惊心的布局,也没有剧情的起伏,影片比较枯燥.也就懒得再说的.
+   
+   
+   寻龙诀特效比较华丽,但是剧情还是薄弱,故事的堆积只能说剧情有限,也就那样吧,花个特效钱.
+   
+   唐人街-探案,还是不错的,剧情十分犀利,其实个人感觉是一个披着喜剧外衣的悬疑片.作为喜剧片其实有点浪费,跟适合拍成无间道那种剧情片,哈哈.
+   
+   当然喜剧也不错,大过年的,让人乐一乐~
+   
+   老炮儿只能说是北方人心中钟爱的一段故事.故事简单,但是细节处动人.看着当今社会,在感受老炮儿的时候,总有一股不可名状的悲伤~
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
