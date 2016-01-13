@@ -11,8 +11,13 @@ date:   2015-12-22
       
     读书是一个持久的过程,毕业后读完的第一本书不出意外是一本技术类<<Cocoa入门 -使用Objective- C>>版本已经比较老了,是08年的第一版,不过底层的东西还是差不多的.
     
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### 第二本
+    
+    今天偶尔在网上看到一个电子书网站-e书时空,上面的第一本书是<第一次亲密接触>,点进去,作者果然是记忆中的-痞子蔡.这本书可以说是我第一本网络小说吧.最先的懵懂少年被这本书所吸引是因为书名,哈哈.
+    
+    看完之后,还是很有味道的,纯爱,悲伤,分离,符合一个故事的.
+    
+    今天再次看到这个书名,不禁感慨,转念也有十年了~
 
 Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
 
